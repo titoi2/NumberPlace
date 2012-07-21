@@ -185,44 +185,34 @@ func ui_main() {
 	}
 
 	Btn1.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(1)
 	})
 	Btn2.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(2)
 	})
 	Btn3.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(3)
 	})
 	Btn4.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(4)
 	})
 	Btn5.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(5)
 	})
 	Btn6.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(6)
 	})
 	Btn7.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(7)
 	})
 	Btn8.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(8)
 	})
 	Btn9.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(9)
 	})
 
 	BtnCLR.OnClicked(func() {
-		// TODO sender does not have?
 		numBtnFunc(0)
 	})
 
